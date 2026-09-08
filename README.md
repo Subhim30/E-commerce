@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # React + TypeScript + Vite + shadcn/ui
 
 This is a template for a new Vite project with React, TypeScript, and shadcn/ui.
@@ -20,7 +20,7 @@ To use the components in your app, import them as follows:
 ```tsx
 import { Button } from "@/components/ui/button"
 ```
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -91,4 +91,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 17f7509f3f32f6f010b60ac15195dae748e77cd5
+
